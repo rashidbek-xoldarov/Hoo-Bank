@@ -288,7 +288,7 @@ img {
   .feedback::after {
     position: absolute;
     top: 240px;
-    left: 90%;
+    left: calc(50% + 600px);
     z-index: 1000;
     display: block;
     width: 176px;
